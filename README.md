@@ -1,6 +1,8 @@
 ## ZCL NODE + NEW TESTNET GENESIS BLOCK  ###### 
 NOTICE: after build 
+TESTNET PORT 18233
 cp /home/$user/zclassic/src/zclassic.conf /home/$user/.zclassic/
+
 
 NOTICE: We are mainly using v1.0.5 which is still p2p port 8133 and rpcport is 8232
 
