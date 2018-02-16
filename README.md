@@ -1,4 +1,4 @@
-## ZCL NODE + NEW TESTNET GENESYS BLOCK  ###### 
+## ZCL NODE + NEW TESTNET GENESIS BLOCK  ###### 
 NOTICE: after build 
 cp /home/$user/zclassic/src/zclassic.conf /home/$user/.zclassic/
 
